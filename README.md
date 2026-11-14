@@ -4,6 +4,8 @@ A rowdy kart racer in your browser: 6 tracks, circuits, time trials against your
 
 **▶ Play: https://llHarrison.github.io/buggyboom/**
 
+Works on Mac, Windows, Linux and Chromebook in any up-to-date browser (Chrome, Edge, Firefox or Safari). Nothing to install.
+
 ## Controls
 | Key | Action |
 |---|---|
