@@ -2,7 +2,7 @@
 
 A rowdy kart racer in your browser: 6 tracks, circuits, time trials against your ghost, 2–4 player split-screen, and online races for up to 8 players with a 5-letter room code.
 
-**▶ Play: https://llHarrison.github.io/buggyboom/**
+**▶ Play: https://nobluezz.github.io/buggyboom/**
 
 Works on Mac, Windows, Linux and Chromebook in any up-to-date browser (Chrome, Edge, Firefox or Safari). Nothing to install.
 
